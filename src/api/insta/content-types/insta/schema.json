@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "instas",
+  "info": {
+    "singularName": "insta",
+    "pluralName": "instas",
+    "displayName": "insta"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "password": {
+      "type": "string"
+    }
+  }
+}
