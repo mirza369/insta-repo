@@ -13,6 +13,9 @@
   "attributes": {
     "password": {
       "type": "string"
+    },
+    "username": {
+      "type": "string"
     }
   }
 }
